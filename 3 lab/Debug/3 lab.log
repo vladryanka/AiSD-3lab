@@ -1,0 +1,4 @@
+﻿  3 lab.cpp
+C:\Users\Я\Desktop\вуз\3 семестр\3 lab\3 lab.cpp(184,18): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Я\Desktop\вуз\3 семестр\3 lab\3 lab.cpp(264,9): warning C4101: buffer: неиспользованная локальная переменная
+  3 lab.vcxproj -> C:\Users\Я\Desktop\вуз\3 семестр\3 lab\Debug\3 lab.exe
